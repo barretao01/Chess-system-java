@@ -1,3 +1,6 @@
+package boardgame;
+
+
 public class Position
 {
     // variáveis de instância - substitua o exemplo abaixo pelo seu próprio
